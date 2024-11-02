@@ -1,0 +1,133 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Royal Security</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="hero">
+        <h1>Security, Our Priority</h1>
+        <p>Providing premium security services to keep you safe.</p>
+        <a href="contact.html" class="cta-button">Get a Quote</a>
+    </header>
+    <main>
+        <section class="about-brief">
+            <h2>About Us</h2>
+            <p>At Royal Security, your safety and peace of mind are at the core of everything we do. Our priority is to provide comprehensive, top-tier security solutions tailored to protect what matters most to you. Whether safeguarding your business, home, or special events, our skilled personnel are trained to handle every situation with professionalism, vigilance, and integrity. We’re committed to creating secure environments, delivering peace of mind, and building trust through proactive risk management and round-the-clock support..</p>
+        </section>
+        <section class="services-summary">
+            <h2>Our Services</h2>
+            <div class="service">
+                <h3>Patrol Services</h3>
+            </div>
+            <div class="service">
+                <h3>CCTV Monitoring</h3>
+            </div>
+            <div class="service">
+                <h3>Event Security</h3>
+                </div>
+                <div class="service">
+                <h3> Residential Security
+            </div>
+        </section>
+         </div 
+    </main>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us | Royal Security</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        
+        </section>
+        <section>
+            <h2>Our Team</h2>
+            <p>Our team comprises skilled professionals with extensive experience in security services At Royal Security, our team is the backbone of our commitment to excellence. We bring together skilled and experienced security professionals, each rigorously trained to handle diverse security needs with diligence, professionalism, and integrity. Our team members are not only experts in security but also embody our core values of trust, reliability, and respect..</p>
+        </section>
+    </main>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Services | Royal Security</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Our Services</h1>
+    </header>
+    <main>
+        <section>
+            <h2>Alarm Response</h2>
+           
+          <p> 24/7 alarm monitoring and rapid response for intrusions and emergencies
+<p>Coordination with law enforcement for verified incidents
+<p>Real-time alert system to keep clients informed of any incidents
+ .</p>
+        </section>
+        <section>
+            <h2>Mobile Patrols</h2>
+            <p>Dedicated patrol services ensuring security around the clock.</p>Scheduled and random patrols of client properties
+</p>Visible deterrent to potential intruders and </p>criminal activity
+Incident reporting and response services
+        </section>
+    </main>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us | Royal Security</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Contact Us</h1>
+    </header>
+    <main>
+        <form action="#" method="post">
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name">
+            
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email"> 
+            
+            <label for="message">Message:</label>
+            <textarea id="message" name="message"></textarea>
+            
+            <button type="submit">Submit</button>
+        </form>
+    </main>
+</body>
+</html>
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+.hero {
+    background: #222 url('path-to-hero-image.jpg') no-repeat center;
+    padding: 100px 20px;
+    color: #fff;
+    text-align: center;
+}
+
+.cta-button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+}
